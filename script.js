@@ -3,17 +3,17 @@ const produtos = [
   {
     nome: "Camisa",
     preco: 50,
-    imagem: "D:\\Usuarios\\1056592\\Downloads\\Atibidadestpervisionada\\download (1).jpg"
+    imagem: "download (1).jpg"
   },
   {
     nome: "Tênis",
     preco: 120,
-    imagem: "D:\\Usuarios\\1056592\\Downloads\\Atibidadestpervisionada\\download (2).jpg"
+    imagem: "download (2).jpg"
   },
   {
     nome: "Boné",
     preco: 30,
-    imagem: "D:\\Usuarios\\1056592\\Downloads\\Atibidadestpervisionada\\download.jpg"
+    imagem: "download.jpg"
   }
 ];
 
